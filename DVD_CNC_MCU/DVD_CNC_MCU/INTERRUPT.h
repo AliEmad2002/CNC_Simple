@@ -1,11 +1,3 @@
-/*
- * INTERRUPT.h
- *
- * Created: 8/22/2021 12:14:15 AM
- *  Author: MohammedGamalEleish
- */ 
-
-
 #ifndef INTERRUPT_H_
 #define INTERRUPT_H_
 
