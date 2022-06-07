@@ -1,11 +1,3 @@
-/*
- * SERVO_interface.h
- *
- * Created: 9/9/2021 6:34:21 PM
- *  Author: MohammedGamalEleish
- */
-
-
 #ifndef SERVO_INTERFACE_H_
 #define SERVO_INTERFACE_H_
 
